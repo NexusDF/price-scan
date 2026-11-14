@@ -1,0 +1,46 @@
+@import "./fonts/fonts.css";
+
+:root {
+  --p-bg: #ffffff;
+  --p-surface: #f3f3f3;
+  --p-ink: #232323;
+  --p-muted: #686868;
+  --p-line: #e5e5e5;
+  --p-segment: #e6e6e6;
+  --p-accent: #a1ffcb;
+  --p-accent-ink: #232323;
+  --p-action: #232323;
+  --p-action-ink: #ffffff;
+  --p-frame: #ffffff;
+  --p-scrim: rgba(0, 0, 0, 0.35);
+
+  --font-display: "Outfit", system-ui, sans-serif;
+  --font-text: "Outfit", system-ui, sans-serif;
+  --font-mono: "DM Mono", ui-monospace, "SFMono-Regular", Menlo, Consolas, monospace;
+  --display-weight: 400;
+  --button-weight: 500;
+  --hero-weight: 500;
+  --display-tracking: -0.03em;
+  --display-tracking-xl: -0.04em;
+
+  --type-hero: 56px;
+  --type-title: 34px;
+  --type-nav: 17px;
+  --type-body: 17px;
+  --type-label: 15px;
+  --type-caption: 13px;
+
+  --radius-card: 22px;
+  --radius-sheet: 28px;
+  --radius-control: 16px;
+  --radius-pill: 999px;
+
+  --space-screen: 20px;
+  --row-min: 52px;
+  --button-height: 52px;
+  --tap-min: 44px;
+
+  --shutter-ring: 72px;
+  --shutter-stroke: 3px;
+  --shutter-disc: 54px;
+}
